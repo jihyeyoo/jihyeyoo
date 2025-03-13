@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jihye Yoo👋
 
 <!--
 **jihyeyoo/jihyeyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 🏫 Education
-- Ewha womans university computer science and engineering undergraduate student (이화여자대학교 컴퓨터공학과 22학번)
+- Ewha womans university computer science and engineering undergraduate student
 
 - Exchange student at Technical University of Darmstadt
 
