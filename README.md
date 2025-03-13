@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-📍Education
+🏫 Education
 - Ewha womans university computer science and engineering undergraduate student (이화여자대학교 컴퓨터공학과 22학번)
 
 - exchange student at Technical University of Darmstadt
 
-- Seongnam foreign language high school German major
+- Seongnam foreign language high school German major 🎓
 
-📍Awards
+🏆 Awards
 - 지능정보 sw 아카데미 한국지능정보사회진흥원장상(최우수상)
 
 - SKT FLY AI Challenger 6기 프로젝트 부문 우수상
 
-📍Experiences
+💻 Experiences
 - SKT FLY AI Challenger 6기 
 
 - 고려대학교 지능정보 sw 아카데미 5기
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 데이터 분석 연합 동아리 df
 
-📍Languages
+🗣 Languages
 - telc German B1
 
 - TOEIC : 955
