@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🏫 Education
 - Ewha womans university computer science and engineering undergraduate student (이화여자대학교 컴퓨터공학과 22학번)
 
-- exchange student at Technical University of Darmstadt
+- Exchange student at Technical University of Darmstadt
 
 - Seongnam foreign language high school German major 🎓
 
