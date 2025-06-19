@@ -1,4 +1,5 @@
-## Hi, I'm Jihye Yoo👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=E1DDD3&height=200&section=header&text=Hello%20I'm%20Jihye%20Yoo!&fontSize=60&fontColor=424D55&fontAlignY=40)
+
 
 <!--
 **jihyeyoo/jihyeyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,37 +16,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi! I'm passionate about **computer vision**, **sports data analysis**, and **front-end development**.  
+In my free time, I enjoy **photography** — feel free to check out some of my photos! 📷
+[here](https://historical-liquid-144.notion.site/Foto-von-mir-1fbf7b95a057803ab976dd93f4d4ca22?pvs=143)! 📷
 
-🏫 Education
+<br>
+
+## Education
 - Ewha womans university computer science and engineering undergraduate student
 
 - Exchange student at Technical University of Darmstadt
 
-- Seongnam foreign language high school German major 🎓
+- Seongnam foreign language high school German major
 
-🏆 Awards
-- 지능정보 sw 아카데미 한국지능정보사회진흥원장상(최우수상)
+## Awards
+- Top Prize, Intelligent Information Software Academy Awarded by the President of NIA, 2024
 
-- SKT FLY AI Challenger 6기 프로젝트 부문 우수상
+- Excellence Prize, SKT FLY AI Challenger Project Award
 
-💻 Experiences
-- SKT FLY AI Challenger 6기 
 
-- 고려대학교 지능정보 sw 아카데미 5기
+## Experiences
+- SKT FLY AI Challenger
 
-- KUSF 스포츠데이터 분석 러너 3기 
+- Korea University INISW Academy
 
-- KBO 기록강습회 수료
+- KUSF Sports Data Analysis Program
 
-- 4차산업융합교육 동아리 CNTO 6기
+- World Friends ICT Volunteer Group
 
-- 월드 프렌즈 ICT 봉사단
+- KBO Official Record-Keeping Workshop
 
-- 화웨이 seed for the future 수료
+- Huawei Seeds for the Future Program
 
-- 데이터 분석 연합 동아리 df
 
-🗣 Languages
+
+## Languages
 - telc German B1
 
 - TOEIC : 955
