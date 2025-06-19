@@ -48,11 +48,3 @@ In my free time, I enjoy **photography** — feel free to check out some of my p
 
 - Huawei Seeds for the Future Program
 
-
-
-## Languages
-- telc German B1
-
-- TOEIC : 955
-
-- TOEIC speaking : IH, writing : AH
