@@ -36,15 +36,17 @@ In my free time, I enjoy **photography** — feel free to check out some of my p
 
 
 ## Experiences
+- Currently : CIP Lab, Yonsei University — Undergraduate Intern
+  
 - SKT FLY AI Challenger
 
 - Korea University INISW Academy
 
 - KUSF Sports Data Analysis Program
 
-- World Friends ICT Volunteer Group
-
 - KBO Official Record-Keeping Workshop
+
+- World Friends ICT Volunteer Group
 
 - Huawei Seeds for the Future Program
 
