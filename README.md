@@ -32,7 +32,8 @@ In my free time, I enjoy **photography** — feel free to check out some of my p
 ## Awards
 - Top Prize, Intelligent Information Software Academy Awarded by the President of NIA, 2024
 
-- Excellence Prize, SKT FLY AI Challenger Project Award
+- Excellence Prize, SKT FLY AI Challenger Project Award —
+[🔗](https://www.trendw.kr/news/articleView.html?idxno=11009)
 
 
 ## Experiences
